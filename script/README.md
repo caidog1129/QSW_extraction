@@ -1,1 +1,1 @@
-
+The scripts are seperated into five sections: kinship for kinship extraction, official for official extraction, burial for burial information extraction, entry for entry time extraction, doccano for visualize the extraction data using a website called doccano.
